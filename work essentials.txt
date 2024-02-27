@@ -1,0 +1,15 @@
+controller -> Service ->Serviceimpl ->repository / client ->other service
+testsetcostumerenetitylist
+valid re
+empty mapcrite
+elastic
+controller
+invalid token, bad erquest exception(for every attribute ) ,valid success 
+mocking
+controller
+service
+when statement any input one output(this is a lecuna)
+
+My process to check the invalid token
+
+take an input ->bypass it to a check constraint(Cross verification) -> then print the message
